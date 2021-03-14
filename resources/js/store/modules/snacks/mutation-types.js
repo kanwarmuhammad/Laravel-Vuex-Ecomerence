@@ -1,0 +1,1 @@
+export const GET_ALL_SNACKS = 'GET_ALL_SNACKS'

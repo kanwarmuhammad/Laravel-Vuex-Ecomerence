@@ -1,0 +1,1 @@
+export const GET_ALL_SHARING = 'GET_ALL_SHARING'
